@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Typography 1`] = `
+<p
+  className=""
+>
+  Aliquip in nisi ut ipsum.
+</p>
+`;
+
+exports[`Should render Typography when color prop 1`] = `
+.c0 {
+  color: #1b1c1d;
+  background-color: #ef4d5a;
+}
+
+<p
+  className="c0"
+  color="black"
+>
+  Aliquip in nisi ut ipsum.
+</p>
+`;
+
+exports[`Should render Typography when space prop 1`] = `
+.c0 {
+  margin: 10px;
+}
+
+<p
+  className="c0"
+>
+  Aliquip in nisi ut ipsum.
+</p>
+`;

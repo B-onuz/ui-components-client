@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SidebarMenu changes the class when hovered 1`] = `
+.c2 {
+  list-style: none;
+  padding: 0;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+  -webkit-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  transform: translateX(100%);
+  opacity: 0.5;
+}
+
+.c4 {
+  visibility: hidden;
+  background: rgba(0,0,0,0);
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.c0 {
+  height: 100%;
+  z-index: 9999;
+}
+
+.c1 {
+  width: 248px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  background: #550e33 linear-gradient(89deg,#550e33 0%,#ff4f5d 100%) 0% 0% no-repeat padding-box;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+  z-index: 1002;
+  overflow: auto;
+  -webkit-transform: translateX(-100%);
+  -ms-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.c3 {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+@media only screen and (max-height:800px) {
+  .c3 {
+    position: unset;
+    padding-bottom: 4vh;
+  }
+}
+
+<nav
+  aria-expanded={false}
+  aria-label="menu"
+  className="c0"
+  open={false}
+  role="menubar"
+>
+  <div
+    className="c1 css-13rhp43"
+    open={false}
+    role="none"
+  >
+    Logo
+    <ul
+      className="c2"
+      role="menu"
+    />
+    <div
+      className="c3 css-vurnku"
+    />
+  </div>
+  <div
+    aria-label="Fechar menu"
+    className="c4"
+    role="button"
+  />
+</nav>
+`;

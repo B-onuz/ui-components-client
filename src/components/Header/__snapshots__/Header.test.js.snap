@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header changes the class when hovered 1`] = `
+.c0 {
+  font-size: 16px;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-family: inherit;
+}
+
+@media screen and (min-width:40em) {
+  .c0 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width:52em) {
+  .c0 {
+    font-size: 24px;
+  }
+}
+
+<header
+  className="c0"
+  fontSize={
+    Array [
+      2,
+      3,
+      4,
+    ]
+  }
+/>
+`;

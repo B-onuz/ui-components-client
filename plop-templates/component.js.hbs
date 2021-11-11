@@ -1,0 +1,13 @@
+import React from 'react'
+import styled from 'styled-components'
+import { color } from 'styled-system'
+
+const Styled{{pascalCase name}} = styled.{{baseTag}}`
+  ${color}
+`
+
+const {{pascalCase name}} = ({ children, ...rest }) => {
+  return <Styled{{pascalCase name}} {...rest} />
+}
+
+export default {{pascalCase name}}

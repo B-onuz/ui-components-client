@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render BreadCrumb 1`] = `
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #ef4d5a;
+  border-color: #ef4d5a;
+  font-size: 14px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #ef4d5a;
+  border: none;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1:focus {
+  box-shadow: 0 0 8px #ef4d5a;
+}
+
+.c1:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c1:active,
+.c1:hover {
+  background-color: hsl(355.20000000000005,91.9%,55.8%);
+}
+
+.c1:disabled {
+  background-color: hsl(355.20000000000005,50.1%,68.2%);
+}
+
+.c1:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  color: undefined;
+}
+
+.c3 {
+  color: #1b1c1d;
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.c2 {
+  color: hsl(355.20000000000005,83.5%,31%);
+}
+
+<div
+  className="c0"
+>
+  <button
+    action={[Function]}
+    className="c1"
+    color="primary"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 1
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="primary"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <button
+    action={[Function]}
+    className="c1"
+    color="primary"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 2
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="primary"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <button
+    action={[Function]}
+    className="c1"
+    color="primary"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 3
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="primary"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <span
+    action={[Function]}
+    className="c3"
+    color="black"
+  >
+    Gestão da rota do Link 4
+  </span>
+</div>
+`;
+
+exports[`Should render BreadCrumb with color 1`] = `
+.c1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #6435c9;
+  border-color: #6435c9;
+  font-size: 14px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #6435c9;
+  border: none;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1:focus {
+  box-shadow: 0 0 8px #6435c9;
+}
+
+.c1:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c1:active,
+.c1:hover {
+  background-color: hsl(259.1,64.1%,44.8%);
+}
+
+.c1:disabled {
+  background-color: hsl(259.1,35%,54.8%);
+}
+
+.c1:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  color: undefined;
+}
+
+.c3 {
+  color: #1b1c1d;
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.c2 {
+  color: hsl(259.1,58.3%,24.9%);
+}
+
+<div
+  className="c0"
+>
+  <button
+    action={[Function]}
+    className="c1"
+    color="violet"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 1
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="violet"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <button
+    action={[Function]}
+    className="c1"
+    color="violet"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 2
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="violet"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <button
+    action={[Function]}
+    className="c1"
+    color="violet"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Gestão da rota do Link 3
+  </button>
+  <svg
+    aria-hidden="true"
+    className="svg-inline--fa fa-angle-right fa-w-8 c2"
+    color="violet"
+    data-icon="angle-right"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style={Object {}}
+    viewBox="0 0 256 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+      fill="currentColor"
+      style={Object {}}
+    />
+  </svg>
+  <span
+    action={[Function]}
+    className="c3"
+    color="black"
+  >
+    Gestão da rota do Link 4
+  </span>
+</div>
+`;

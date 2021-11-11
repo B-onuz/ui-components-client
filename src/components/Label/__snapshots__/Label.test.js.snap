@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label changes the class when hovered 1`] = `
+.c0 {
+  color: #555;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+<label
+  className="c0"
+>
+   Hello Label
+</label>
+`;

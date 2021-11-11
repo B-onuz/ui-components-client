@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Card 1`] = `
+.c0 {
+  width: 192px;
+  height: 90px;
+  min-height: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  position: relative;
+  box-shadow: 3px 3px 6px #00000029;
+  border: 3px solid;
+  border-radius: 12px;
+  padding: 20px 32px;
+  overflow: hidden;
+}
+
+.c0 .icon {
+  margin-right: 24px;
+  font-size: 40px;
+}
+
+.c1 {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 400;
+  color: #1b1c1d;
+  opacity: 1;
+  box-shadow: none;
+  margin-bottom: 8px;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-shadow: none;
+  font-size: 40px;
+}
+
+.c3 {
+  margin: 0;
+  font-weight: 600;
+  box-shadow: none;
+}
+
+.c4 {
+  margin-top: 8px;
+  display: none;
+  color: #1b1c1d;
+}
+
+@media only screen and (max-width:500px) {
+  .c0 {
+    width: 100%;
+    height: none !important;
+    min-height: 84px !important;
+    padding: 25px 12px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c0 .icon {
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 6px;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c1 {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c2 {
+    font-size: 30px;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c4 {
+    margin-top: 8px;
+  }
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  />
+  <div
+    className="c2"
+  >
+    <span
+      className="c3"
+    />
+  </div>
+  <small
+    className="c4"
+  />
+</div>
+`;

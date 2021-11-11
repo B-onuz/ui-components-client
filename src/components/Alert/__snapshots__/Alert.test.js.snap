@@ -1,0 +1,262 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Alert 1`] = `
+Array [
+  .c1 {
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 12px 24px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #7A4D05;
+  background-color: hsla(36.89999999999998,100%,49.8%,0.09999999999999998);
+  box-shadow: 0 0 3px hsl(36.89999999999998,100%,49.8%);
+}
+
+.c1 > p {
+  color: rgba(122,77,5,0.85);
+}
+
+.c0 {
+  background: #fff;
+  border-radius: 4px;
+  -webkit-animation-name: slide_undefined;
+  animation-name: slide_undefined;
+  -webkit-animation-duration: .3s;
+  animation-duration: .3s;
+}
+
+.c2 {
+  margin: 0 0 8px;
+}
+
+.c3 {
+  margin: 0;
+}
+
+<div
+    className="c0"
+  >
+    <div
+      className="c1"
+      color="warning"
+    >
+      <div>
+        <h3
+          className="c2"
+        >
+          Exemplo de título
+        </h3>
+        <p
+          className="c3"
+        >
+          Este texto é exemplo de uma message
+        </p>
+      </div>
+    </div>
+  </div>,
+  .c1 {
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 12px 24px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #1E561F;
+  background-color: hsla(121.10000000000002,100%,45.5%,0.09999999999999998);
+  box-shadow: 0 0 3px hsl(121.10000000000002,100%,45.5%);
+}
+
+.c1 > p {
+  color: rgba(30,86,31,0.85);
+}
+
+.c0 {
+  background: #fff;
+  border-radius: 4px;
+  -webkit-animation-name: slide_undefined;
+  animation-name: slide_undefined;
+  -webkit-animation-duration: .3s;
+  animation-duration: .3s;
+}
+
+.c2 {
+  margin: 0 0 8px;
+}
+
+.c3 {
+  margin: 0;
+}
+
+<div
+    className="c0"
+  >
+    <div
+      className="c1"
+      color="success"
+    >
+      <div>
+        <h3
+          className="c2"
+        >
+          Exemplo de título
+        </h3>
+        <p
+          className="c3"
+        >
+          Este texto é exemplo de uma message
+        </p>
+      </div>
+    </div>
+  </div>,
+  .c1 {
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 12px 24px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #0E566C;
+  background-color: hsla(194,100%,47.8%,0.09999999999999998);
+  box-shadow: 0 0 3px hsl(194,100%,47.8%);
+}
+
+.c1 > p {
+  color: rgba(14,86,108,0.85);
+}
+
+.c0 {
+  background: #fff;
+  border-radius: 4px;
+  -webkit-animation-name: slide_undefined;
+  animation-name: slide_undefined;
+  -webkit-animation-duration: .3s;
+  animation-duration: .3s;
+}
+
+.c2 {
+  margin: 0 0 8px;
+}
+
+.c3 {
+  margin: 0;
+}
+
+<div
+    className="c0"
+  >
+    <div
+      className="c1"
+      color="info"
+    >
+      <div>
+        <h3
+          className="c2"
+        >
+          Exemplo de título
+        </h3>
+        <p
+          className="c3"
+        >
+          Este texto é exemplo de uma message
+        </p>
+      </div>
+    </div>
+  </div>,
+  .c1 {
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 12px 24px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #973937;
+  background-color: hsla(1.3000000000000114,100%,80.8%,0.09999999999999998);
+  box-shadow: 0 0 3px hsl(1.3000000000000114,100%,80.8%);
+}
+
+.c1 > p {
+  color: rgba(151,57,55,0.85);
+}
+
+.c0 {
+  background: #fff;
+  border-radius: 4px;
+  -webkit-animation-name: slide_undefined;
+  animation-name: slide_undefined;
+  -webkit-animation-duration: .3s;
+  animation-duration: .3s;
+}
+
+.c2 {
+  margin: 0 0 8px;
+}
+
+.c3 {
+  margin: 0;
+}
+
+<div
+    className="c0"
+  >
+    <div
+      className="c1"
+      color="danger"
+    >
+      <div>
+        <h3
+          className="c2"
+        >
+          Exemplo de título
+        </h3>
+        <p
+          className="c3"
+        >
+          Este texto é exemplo de uma message
+        </p>
+      </div>
+    </div>
+  </div>,
+]
+`;

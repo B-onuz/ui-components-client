@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SidebarMenuItem changes the class when hovered 1`] = `
+.c0 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.c1 {
+  background-color: rgba(255,255,255,0.1);
+  padding: 16px 20px;
+  color: #fff;
+  display: block;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.c1:hover {
+  background-color: rgba(255,255,255,0.2);
+}
+
+<li
+  className="c0"
+  role="none"
+>
+  <a
+    className="c1"
+    role="menuitem"
+    tabIndex="-1"
+  >
+     
+  </a>
+</li>
+`;

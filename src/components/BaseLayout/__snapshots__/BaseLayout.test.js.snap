@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render BaseLayout without sidebar 1`] = `
+<div
+  className="sc-AxjAm sc-AxirZ sc-fzoyAV inmeFV"
+>
+  <div
+    className="sc-AxjAm sc-fzoXzr fzTmwL"
+    display="flex"
+  >
+    <div
+      className="sc-AxhUy cPQMzN"
+    >
+      <header
+        className="sc-Axmtr fiNXqW"
+        fontSize={
+          Array [
+            2,
+            3,
+            4,
+          ]
+        }
+      >
+        <h1
+          className="sc-AxgMl gJMJsZ"
+          color="darkRed"
+        >
+          Cadastro de advogados
+        </h1>
+      </header>
+    </div>
+    <div
+      className="sc-fzoLag djknVU"
+    >
+      <p>
+        Lorem ipsum dolor sit amet
+      </p>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render DemandDetailing 1`] = `
+.c1 {
+  padding: 0;
+  margin: 0;
+  border-radius: 4px;
+  border: 1px solid #DEDEDF;
+  padding-top: 32px;
+  padding-left: 30px;
+}
+
+.c1 legend {
+  margin: 1em;
+  padding: .3em;
+}
+
+.c0 legend {
+  font-size: 21px;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border-left: 1px solid #dededf;
+  margin-bottom: 40px;
+}
+
+@media screen and (min-width:40em) {
+  .c1 {
+    padding-left: 40px;
+  }
+}
+
+@media screen and (min-width:52em) {
+  .c1 {
+    padding-left: 40px;
+  }
+}
+
+@media screen and (min-width:64em) {
+  .c1 {
+    padding-left: 40px;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c0 {
+    margin-left: 20px;
+    padding-left: 0px;
+  }
+}
+
+<div
+  className="c0"
+>
+  <fieldset
+    className="c1"
+  >
+    <div
+      className="c2"
+    />
+  </fieldset>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Legend changes the class when hovered 1`] = `
+.c0 {
+  font-family: inherit;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+<legend
+  className="c0"
+/>
+`;

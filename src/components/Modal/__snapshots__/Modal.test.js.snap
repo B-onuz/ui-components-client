@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Modal should render correctly when open is false 1`] = `null`;
+
+exports[`Component: Modal should render correctly when open is true 1`] = `null`;

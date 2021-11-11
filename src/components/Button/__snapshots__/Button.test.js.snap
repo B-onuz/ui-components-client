@@ -1,0 +1,1480 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render button 1`] = `
+.c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+  className="c0"
+  color="default"
+  disabled={false}
+  size="medium"
+  type="button"
+>
+  Hello Button
+</button>
+`;
+
+exports[`Should render button when color prop 1`] = `
+Array [
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    Default
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    Default
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #ef4d5a;
+  border-color: #ef4d5a;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #ef4d5a;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(355.20000000000005,91.9%,55.8%);
+}
+
+.c0:disabled {
+  background-color: hsl(355.20000000000005,50.1%,68.2%);
+}
+
+<button
+    className="c0"
+    color="primary"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    Primary
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #550e33;
+  border-color: #550e33;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #550e33;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(328.70000000000005,78.9%,17.5%);
+}
+
+.c0:disabled {
+  background-color: hsl(328.70000000000005,43%,21.4%);
+}
+
+<button
+    className="c0"
+    color="secondary"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    Secondary
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #550e33;
+  border-color: #550e33;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #550e33;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(328.70000000000005,78.9%,17.5%);
+}
+
+.c0:disabled {
+  background-color: hsl(328.70000000000005,43%,21.4%);
+}
+
+<button
+    className="c0"
+    color="fullDarkRed"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    fullDarkRed
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #9c2543;
+  border-color: #9c2543;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #9c2543;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(344.9,67.8%,34.1%);
+}
+
+.c0:disabled {
+  background-color: hsl(344.9,37%,41.6%);
+}
+
+<button
+    className="c0"
+    color="darkRed"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    darkRed
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #ef4d5a;
+  border-color: #ef4d5a;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #ef4d5a;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(355.20000000000005,91.9%,55.8%);
+}
+
+.c0:disabled {
+  background-color: hsl(355.20000000000005,50.1%,68.2%);
+}
+
+<button
+    className="c0"
+    color="lightRed"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    lightRed
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #db2828;
+  border-color: #db2828;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #db2828;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(0,78.4%,45.7%);
+}
+
+.c0:disabled {
+  background-color: hsl(0,42.8%,55.9%);
+}
+
+<button
+    className="c0"
+    color="red"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    red
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #f2711c;
+  border-color: #f2711c;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #f2711c;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(23.80000000000001,98.1%,47.6%);
+}
+
+.c0:disabled {
+  background-color: hsl(23.80000000000001,53.5%,58.2%);
+}
+
+<button
+    className="c0"
+    color="orange"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    orange
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #fbbd08;
+  border-color: #fbbd08;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #fbbd08;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(44.69999999999999,100%,45.7%);
+}
+
+.c0:disabled {
+  background-color: hsl(44.69999999999999,58.1%,55.9%);
+}
+
+<button
+    className="c0"
+    color="yellow"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    yellow
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #b5cc18;
+  border-color: #b5cc18;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #b5cc18;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(67.69999999999999,86.8%,40.2%);
+}
+
+.c0:disabled {
+  background-color: hsl(67.69999999999999,47.4%,49.2%);
+}
+
+<button
+    className="c0"
+    color="olive"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    olive
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #21BA45;
+  border-color: #21BA45;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #21BA45;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(134.10000000000002,76.8%,38.6%);
+}
+
+.c0:disabled {
+  background-color: hsl(134.10000000000002,41.9%,47.2%);
+}
+
+<button
+    className="c0"
+    color="green"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    green
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #00b5ad;
+  border-color: #00b5ad;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #00b5ad;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(177.29999999999995,100%,31.9%);
+}
+
+.c0:disabled {
+  background-color: hsl(177.29999999999995,60%,39%);
+}
+
+<button
+    className="c0"
+    color="teal"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    teal
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #2185d0;
+  border-color: #2185d0;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #2185d0;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(205.70000000000005,79.9%,42.5%);
+}
+
+.c0:disabled {
+  background-color: hsl(205.70000000000005,43.6%,52%);
+}
+
+<button
+    className="c0"
+    color="blue"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    blue
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #6435c9;
+  border-color: #6435c9;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #6435c9;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(259.1,64.1%,44.8%);
+}
+
+.c0:disabled {
+  background-color: hsl(259.1,35%,54.8%);
+}
+
+<button
+    className="c0"
+    color="violet"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    violet
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #a333c8;
+  border-color: #a333c8;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #a333c8;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(285.1,65.3%,44.3%);
+}
+
+.c0:disabled {
+  background-color: hsl(285.1,35.6%,54.1%);
+}
+
+<button
+    className="c0"
+    color="purple"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    purple
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #e03997;
+  border-color: #e03997;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e03997;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(326.20000000000005,80.2%,49.6%);
+}
+
+.c0:disabled {
+  background-color: hsl(326.20000000000005,43.8%,60.6%);
+}
+
+<button
+    className="c0"
+    color="pink"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    pink
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #a5673f;
+  border-color: #a5673f;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #a5673f;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(23.5,49.2%,40.2%);
+}
+
+.c0:disabled {
+  background-color: hsl(23.5,26.8%,49.2%);
+}
+
+<button
+    className="c0"
+    color="brown"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    brown
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #767676;
+  border-color: #767676;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #767676;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(0,0%,41.6%);
+}
+
+.c0:disabled {
+  background-color: hsl(0,0%,50.9%);
+}
+
+<button
+    className="c0"
+    color="grey"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    grey
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #fff;
+  background-color: #1b1c1d;
+  border-color: #1b1c1d;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #1b1c1d;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.9%,9.9%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2.1%,12.1%);
+}
+
+<button
+    className="c0"
+    color="black"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    black
+  </button>,
+]
+`;
+
+exports[`Should render button when size prop 1`] = `
+Array [
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 14px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="small"
+    type="button"
+  >
+    Default
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="medium"
+    type="button"
+  >
+    Primary
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 20px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="big"
+    type="button"
+  >
+    Primary
+  </button>,
+  .c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 24px;
+  margin: 8px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+<button
+    className="c0"
+    color="default"
+    disabled={false}
+    size="huge"
+    type="button"
+  >
+    Secondary
+  </button>,
+]
+`;
+
+exports[`Should render outlined button when outline prop 1`] = `
+.c0 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  margin: 8px;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #e0e1e2 !important;
+  border-color: #e0e1e2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c0:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c0:active,
+.c0:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c0:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+.c0:hover {
+  background-color: #e0e1e2;
+  color: #000 !important;
+}
+
+<button
+  className="c0"
+  color="default"
+  disabled={false}
+  size="medium"
+  type="button"
+>
+  Outline button
+</button>
+`;

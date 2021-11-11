@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckBox changes the class when hovered 1`] = `
+<div
+  className="sc-AxjAm ldmlCS"
+>
+  <input
+    className="sc-AxhUy csnest"
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+    type="checkbox"
+  />
+  <label
+    className="sc-AxirZ iDmfPL"
+  >
+    <div
+      className="sc-AxhCb kmoLeD"
+    />
+  </label>
+  <label
+    className="sc-AxiKw gMUReu"
+  />
+</div>
+`;

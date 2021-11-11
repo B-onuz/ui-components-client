@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Switch when checked 1`] = `
+.c2 {
+  display: block;
+  background: #fff;
+  position: relative;
+  border-radius: 100%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  height: 20px;
+  width: 20px;
+  top: 0;
+  display: block;
+  -webkit-transform: translate(25px);
+  -ms-transform: translate(25px);
+  transform: translate(25px);
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  z-index: 2;
+}
+
+.c4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  -webkit-transform: translate(calc(-55% - 25px));
+  -ms-transform: translate(calc(-55% - 25px));
+  transform: translate(calc(-55% - 25px));
+  -webkit-transition: 0.25s ease-out;
+  transition: 0.25s ease-out;
+  opacity: 0;
+}
+
+.c0 {
+  border-color: rgb(223,223,223);
+  box-shadow: rgb(223,223,223) 1px 1px 3px 0px inset;
+  -webkit-transition: border 0.4s,box-shadow 0.4s;
+  transition: border 0.4s,box-shadow 0.4s;
+  background-color: #f7f7f7;
+  border: 1px solid #dfdfdf;
+  border-radius: 20px;
+  cursor: pointer;
+  display: inline-block;
+  height: 20px;
+  position: relative;
+  vertical-align: middle;
+  width: 40px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  box-sizing: content-box;
+  background-clip: content-box;
+  -webkit-mask-image: -webkit-radial-gradient(white,black);
+}
+
+.c0 input {
+  display: none;
+}
+
+.c0 input + .c1 {
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  transform: translate(0);
+}
+
+.c0 input:checked + .c1 {
+  -webkit-transform: translate(calc(50% + 10px));
+  -ms-transform: translate(calc(50% + 10px));
+  transform: translate(calc(50% + 10px));
+}
+
+.c0 input:checked ~ .c3 {
+  background: #ef4d5a;
+  opacity: 1;
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  transform: translate(0);
+}
+
+<label
+  className="c0"
+  color="primary"
+  loading={false}
+>
+  <input
+    checked={true}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <div
+    className="c1 c2"
+    color="primary"
+    loading={false}
+  />
+  <div
+    className="c3 c4"
+    color="primary"
+  />
+</label>
+`;
+
+exports[`Should render Switch when unchecked 1`] = `
+.c2 {
+  display: block;
+  background: #fff;
+  position: relative;
+  border-radius: 100%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  height: 20px;
+  width: 20px;
+  top: 0;
+  display: block;
+  -webkit-transform: translate(25px);
+  -ms-transform: translate(25px);
+  transform: translate(25px);
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  z-index: 2;
+}
+
+.c4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  -webkit-transform: translate(calc(-55% - 25px));
+  -ms-transform: translate(calc(-55% - 25px));
+  transform: translate(calc(-55% - 25px));
+  -webkit-transition: 0.25s ease-out;
+  transition: 0.25s ease-out;
+  opacity: 0;
+}
+
+.c0 {
+  border-color: rgb(223,223,223);
+  box-shadow: rgb(223,223,223) 1px 1px 3px 0px inset;
+  -webkit-transition: border 0.4s,box-shadow 0.4s;
+  transition: border 0.4s,box-shadow 0.4s;
+  background-color: #f7f7f7;
+  border: 1px solid #dfdfdf;
+  border-radius: 20px;
+  cursor: pointer;
+  display: inline-block;
+  height: 20px;
+  position: relative;
+  vertical-align: middle;
+  width: 40px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  box-sizing: content-box;
+  background-clip: content-box;
+  -webkit-mask-image: -webkit-radial-gradient(white,black);
+}
+
+.c0 input {
+  display: none;
+}
+
+.c0 input + .c1 {
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  transform: translate(0);
+}
+
+.c0 input:checked + .c1 {
+  -webkit-transform: translate(calc(50% + 10px));
+  -ms-transform: translate(calc(50% + 10px));
+  transform: translate(calc(50% + 10px));
+}
+
+.c0 input:checked ~ .c3 {
+  background: #ef4d5a;
+  opacity: 1;
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  transform: translate(0);
+}
+
+<label
+  className="c0"
+  color="primary"
+  loading={false}
+>
+  <input
+    checked={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <div
+    className="c1 c2"
+    color="primary"
+    loading={false}
+  />
+  <div
+    className="c3 c4"
+    color="primary"
+  />
+</label>
+`;

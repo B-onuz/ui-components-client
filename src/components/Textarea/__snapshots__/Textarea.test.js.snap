@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Textarea 1`] = `
+.c0 {
+  border: 1px solid #dededf;
+  border-radius: 4px;
+  line-height: 2.1em;
+  outline: none;
+  padding-right: 1em;
+  padding-left: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
+  width: medium;
+  height: medium;
+}
+
+.c0::-webkit-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0::-moz-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0:-ms-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0::placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0:focus {
+  box-shadow: 0 0 3px rgba(33,133,208,0.5);
+  border-color: #2185d0;
+}
+
+<textarea
+  className="c0"
+  color="blue"
+  size="medium"
+/>
+`;

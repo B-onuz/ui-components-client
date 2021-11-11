@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Select 1`] = `
+.c0 {
+  border: 1px solid #dededf;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  line-height: inherit;
+  border-radius: 4px;
+  line-height: 2.1em;
+  outline: none;
+  padding-right: 1em;
+  padding-left: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff;
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTc2cHgiIGhlaWdodD0iOTBweCIgdmlld0JveD0iMCAwIDE3NiA5MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDx0aXRsZT5UcmlhbmdsZTwvdGl0bGU+CiAgICA8ZyBpZD0iV2VsY29tZSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkFydGJvYXJkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTYuMDAwMDAwLCAtNy4wMDAwMDApIiBmaWxsPSIjNEQ0RDREIj4KICAgICAgICAgICAgPHBhdGggZD0iTTEwNS40MTQyMTQsOC40MTQyMTM1NiBMMTkwLjU4NTc4Niw5My41ODU3ODY0IEMxOTEuMzY2ODM1LDk0LjM2NjgzNSAxOTEuMzY2ODM1LDk1LjYzMzE2NSAxOTAuNTg1Nzg2LDk2LjQxNDIxMzYgQzE5MC4yMTA3MTQsOTYuNzg5Mjg2MyAxODkuNzAyMDA2LDk3IDE4OS4xNzE1NzMsOTcgTDE4LjgyODQyNzEsOTcgQzE3LjcyMzg1NzYsOTcgMTYuODI4NDI3MSw5Ni4xMDQ1Njk1IDE2LjgyODQyNzEsOTUgQzE2LjgyODQyNzEsOTQuNDY5NTY3IDE3LjAzOTE0MDgsOTMuOTYwODU5MiAxNy40MTQyMTM2LDkzLjU4NTc4NjQgTDEwMi41ODU3ODYsOC40MTQyMTM1NiBDMTAzLjM2NjgzNSw3LjYzMzE2NDk4IDEwNC42MzMxNjUsNy42MzMxNjQ5OCAxMDUuNDE0MjE0LDguNDE0MjEzNTYgWiIgaWQ9IlRyaWFuZ2xlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDQuMDAwMDAwLCA1Mi4wMDAwMDApIHJvdGF0ZSgtMTgwLjAwMDAwMCkgdHJhbnNsYXRlKC0xMDQuMDAwMDAwLCAtNTIuMDAwMDAwKSAiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==');
+  background-repeat: no-repeat,repeat;
+  cursor: pointer;
+  background-position: right 0.7em top 50%,0 0;
+  background-size: 0.65em auto,100%;
+  font-size: 16px;
+}
+
+.c0::-webkit-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0::-moz-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0:-ms-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0::placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c0:focus {
+  box-shadow: 0 0 3px rgba(33,133,208,0.5);
+  border-color: #2185d0;
+}
+
+<select
+  className="c0"
+  color="blue"
+  placeholder="Nome inteiro"
+  size="medium"
+>
+  <option
+    value="valor1"
+  >
+    Valor 1
+  </option>
+  <option
+    value="valor2"
+  >
+    Valor 2
+  </option>
+  <option
+    value="valor3"
+  >
+    Valor 3
+  </option>
+  <option
+    value="valor4"
+  >
+    Valor 4
+  </option>
+  <option
+    value="valor5"
+  >
+    Valor 5
+  </option>
+  <option
+    value="valor6"
+  >
+    Valor 6
+  </option>
+  <option
+    value="valor7"
+  >
+    Valor 7
+  </option>
+  <option
+    value="valor8"
+  >
+    Valor 8
+  </option>
+</select>
+`;

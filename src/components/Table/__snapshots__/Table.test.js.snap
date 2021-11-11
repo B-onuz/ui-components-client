@@ -1,0 +1,425 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table changes the class when hovered 1`] = `
+.c2 {
+  border-spacing: 0;
+  position: relative;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.c3 {
+  background: #f1f3f8;
+  display: table-header-group;
+}
+
+.c6 {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: #838383;
+  font-weight: 400;
+  padding: 1em;
+  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  background: #f1f3f8;
+  padding: 13px 40px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.c10 {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: #838383;
+  font-weight: 400;
+  padding: 1em;
+  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  background: #f1f3f8;
+  padding: 13px 40px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.c11 {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: #838383;
+  font-weight: 400;
+  padding: 1em;
+  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  background: #f1f3f8;
+  padding: 13px 40px;
+  text-align: center;
+}
+
+.c8 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-left: 4px;
+}
+
+.c8::before,
+.c8::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: 8px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  background-color: #000;
+  -webkit-transition: -webkit-transform 0.25s ease-in-out 0s;
+  -webkit-transition: transform 0.25s ease-in-out 0s;
+  transition: transform 0.25s ease-in-out 0s;
+}
+
+.c8::before {
+  -webkit-transform: translate3d(-2px,0px,0px) rotate(45deg);
+  -ms-transform: translate3d(-2px,0px,0px) rotate(45deg);
+  transform: translate3d(-2px,0px,0px) rotate(45deg);
+}
+
+.c8::after {
+  -webkit-transform: translate3d(3px,0px,0px) rotate(-45deg);
+  -ms-transform: translate3d(3px,0px,0px) rotate(-45deg);
+  transform: translate3d(3px,0px,0px) rotate(-45deg);
+}
+
+.c9 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-left: 4px;
+}
+
+.c9::before,
+.c9::after {
+  content: '';
+  display: block;
+  border: solid #838383;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  padding: 3px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0px;
+  height: 0px;
+}
+
+.c9::after {
+  top: 4px;
+  -webkit-transform: rotate(-135deg);
+  -ms-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+
+.c9::before {
+  bottom: 4px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.c7 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-direction: inherit;
+  -ms-flex-direction: inherit;
+  flex-direction: inherit;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.c13 {
+  text-align: left;
+  padding: 13px 40px;
+}
+
+.c14 {
+  text-align: center;
+  padding: 13px 40px;
+}
+
+.c1 {
+  overflow-x: auto;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c0 {
+  position: relative;
+  border: 1px solid #efefef;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 66.66666666666666%;
+}
+
+.c12 {
+  position: relative;
+  display: table-row-group;
+}
+
+.c12 > .c4 {
+  background-color: #f8fafc;
+}
+
+.c12 > .c4:nth-child(odd) {
+  background-color: #fff;
+}
+
+@media only screen and (max-width:500px) {
+  .c8 {
+    -webkit-transform: rotateZ(90deg);
+    -ms-transform: rotateZ(90deg);
+    transform: rotateZ(90deg);
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c9 {
+    -webkit-transform: rotateZ(90deg);
+    -ms-transform: rotateZ(90deg);
+    transform: rotateZ(90deg);
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c5 {
+    min-width: 150px;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c13 {
+    padding: 12px 8px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c14 {
+    padding: 12px 8px;
+    text-align: center;
+  }
+}
+
+<div
+  className="c0"
+  width={
+    Array [
+      0.6666666666666666,
+    ]
+  }
+>
+  <div
+    className="c1"
+  >
+    <table
+      className="c2"
+    >
+      <thead
+        className="c3"
+      >
+        <tr
+          className="c4 c5"
+        >
+          <th
+            className="c6"
+            onClick={[Function]}
+            order={true}
+          >
+            <span
+              className="c7"
+            >
+              Advogados
+               
+              <span
+                className="c8"
+                order="asc"
+              />
+            </span>
+          </th>
+          <th
+            className="c6"
+            onClick={[Function]}
+            order={true}
+          >
+            <span
+              className="c7"
+            >
+              Especialidades
+               
+              <span
+                className="c9"
+                order="asc"
+              />
+            </span>
+          </th>
+          <th
+            className="c10"
+            onClick={[Function]}
+            order={true}
+          >
+            <span
+              className="c7"
+            >
+              Tarefas
+               
+              <span
+                className="c9"
+                order="asc"
+              />
+            </span>
+          </th>
+          <th
+            className="c11"
+            onClick={[Function]}
+          >
+            <span
+              className="c7"
+            >
+              Ações
+               
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="c12"
+      >
+        <tr
+          className="c4 c5"
+        >
+          <td
+            className="c13"
+          >
+            Nome do advogado
+          </td>
+          <td
+            className="c13"
+          >
+            Comercial, Contratos
+          </td>
+          <td
+            className="c14"
+          >
+            10
+          </td>
+          <td
+            className="c14"
+          >
+            
+          </td>
+        </tr>
+        <tr
+          className="c4 c5"
+        >
+          <td
+            className="c13"
+          >
+            Nome do advogado
+          </td>
+          <td
+            className="c13"
+          >
+            Comercial, Contratos
+          </td>
+          <td
+            className="c14"
+          >
+            10
+          </td>
+          <td
+            className="c14"
+          >
+            
+          </td>
+        </tr>
+        <tr
+          className="c4 c5"
+        >
+          <td
+            className="c13"
+          >
+            Nome do advogado
+          </td>
+          <td
+            className="c13"
+          >
+            Comercial, Contratos
+          </td>
+          <td
+            className="c14"
+          >
+            10
+          </td>
+          <td
+            className="c14"
+          >
+            
+          </td>
+        </tr>
+        <tr
+          className="c4 c5"
+        >
+          <td
+            className="c13"
+          >
+            Nome do advogado
+          </td>
+          <td
+            className="c13"
+          >
+            Comercial, Contratos
+          </td>
+          <td
+            className="c14"
+          >
+            10
+          </td>
+          <td
+            className="c14"
+          >
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

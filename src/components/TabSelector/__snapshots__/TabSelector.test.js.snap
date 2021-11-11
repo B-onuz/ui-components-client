@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render TabSelector 1`] = `
+.c2 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: inherit;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-style: solid;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-color: undefined !important;
+  color: #000;
+  background-color: #e0e1e2;
+  border-color: #e0e1e2;
+  font-size: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  box-sizing: border-box;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #e0e1e2;
+  border: none;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2:focus {
+  box-shadow: 0 0 8px #e0e1e2;
+}
+
+.c2:active:not(:disabled) {
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.c2:active,
+.c2:hover {
+  background-color: hsl(210,3.7%,79.4%);
+}
+
+.c2:disabled {
+  background-color: hsl(210,2%,97.1%);
+}
+
+.c2:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.c1 {
+  display: inline-block;
+  border-radius: 25px;
+  overflow: hidden;
+  border: 2px solid undefined;
+}
+
+@media only screen and (max-width:500px) {
+  .c0 {
+    min-width: 180px;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .c1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border-radius: 12px;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <button
+      className="c2"
+      color="default"
+      disabled={false}
+      size="medium"
+      style={
+        Object {
+          "borderRadius": 0,
+        }
+      }
+      type="button"
+    />
+    <button
+      className="c2"
+      color="default"
+      disabled={false}
+      size="medium"
+      style={
+        Object {
+          "borderRadius": 0,
+        }
+      }
+      type="button"
+    />
+  </div>
+</div>
+`;

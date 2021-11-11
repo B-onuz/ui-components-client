@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField changes the class when hovered 1`] = `
+.c1 {
+  color: #555;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.c2 {
+  border: 1px solid #dededf;
+  border-radius: 4px;
+  line-height: 2.1em;
+  outline: none;
+  padding-right: 1em;
+  padding-left: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.c2::-webkit-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c2::-moz-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c2:-ms-input-placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c2::placeholder {
+  -webkit-letter-spacing: 0px;
+  -moz-letter-spacing: 0px;
+  -ms-letter-spacing: 0px;
+  letter-spacing: 0px;
+  color: #b5b5b5;
+}
+
+.c2:focus {
+  box-shadow: 0 0 3px rgba(33,133,208,0.5);
+  border-color: #2185d0;
+}
+
+.c0 {
+  display: block;
+  font-family: inherit;
+  margin: 8px;
+}
+
+.c0 label {
+  display: block;
+  margin-bottom: 0.4em;
+}
+
+<div
+  className="c0"
+>
+  <label
+    className="c1"
+    color={false}
+    htmlFor="name"
+  >
+    <abbr
+      title="Campo obrigatório"
+    >
+      *
+    </abbr>
+     Nome
+  </label>
+  <input
+    aria-invalid={false}
+    aria-required={true}
+    className="c2"
+    color="blue"
+    id="name"
+    name="name"
+    placeholder="Nome"
+    required={true}
+    size="medium"
+    type="text"
+  />
+</div>
+`;
