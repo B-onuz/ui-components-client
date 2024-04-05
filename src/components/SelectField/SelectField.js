@@ -20,7 +20,7 @@ const StyledSelectField = styled.div`
 const SelectField = ({ children, label, placeholder, name, id, value, onChange, required, error, helperText, inputProps = {}, ...rest }) => {
   return (
     <StyledSelectField {...rest}>
-      <Label htmlFor={id} color={!!error && 'danger'} required={!!required}>
+      <Label htmlFor={id} color={!!error ? 'danger' : ''} required={!!required}>
         {label}
       </Label>
       <Select
