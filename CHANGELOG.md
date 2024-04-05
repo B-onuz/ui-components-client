@@ -2,8 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [2.35.2](https://github.com/B-onuz/ui-components-client/compare/v2.35.1...v2.35.2) (2024-04-05)
-
 ### 2.35.1 (2024-04-05)
 
 ## [2.35.0](https://github.com/B-onuz/ui-components/compare/v2.34.6...v2.35.0) (2021-02-05)
